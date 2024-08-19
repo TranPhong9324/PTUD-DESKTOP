@@ -1,0 +1,12 @@
+D:\Phat Trien Ung Dung Desktop\Homework exercises\bin\Debug\Homework exercises.exe.config
+D:\Phat Trien Ung Dung Desktop\Homework exercises\bin\Debug\Homework exercises.exe
+D:\Phat Trien Ung Dung Desktop\Homework exercises\bin\Debug\Homework exercises.pdb
+D:\Phat Trien Ung Dung Desktop\Homework exercises\obj\Debug\Homework exercises.csproj.AssemblyReference.cache
+D:\Phat Trien Ung Dung Desktop\Homework exercises\obj\Debug\Homework exercises.csproj.SuggestedBindingRedirects.cache
+D:\Phat Trien Ung Dung Desktop\Homework exercises\obj\Debug\Homework_exercises.Form1.resources
+D:\Phat Trien Ung Dung Desktop\Homework exercises\obj\Debug\Homework_exercises.Properties.Resources.resources
+D:\Phat Trien Ung Dung Desktop\Homework exercises\obj\Debug\Homework exercises.csproj.GenerateResource.cache
+D:\Phat Trien Ung Dung Desktop\Homework exercises\obj\Debug\Homework exercises.csproj.CoreCompileInputs.cache
+D:\Phat Trien Ung Dung Desktop\Homework exercises\obj\Debug\Homework exercises.exe
+D:\Phat Trien Ung Dung Desktop\Homework exercises\obj\Debug\Homework exercises.pdb
+D:\Phat Trien Ung Dung Desktop\Homework exercises\obj\Debug\Homework_exercises.Submit.resources

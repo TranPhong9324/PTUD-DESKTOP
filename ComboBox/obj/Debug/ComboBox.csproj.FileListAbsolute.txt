@@ -1,0 +1,11 @@
+D:\Phat Trien Ung Dung Desktop\ComboBox\bin\Debug\ComboBox.exe.config
+D:\Phat Trien Ung Dung Desktop\ComboBox\bin\Debug\ComboBox.exe
+D:\Phat Trien Ung Dung Desktop\ComboBox\bin\Debug\ComboBox.pdb
+D:\Phat Trien Ung Dung Desktop\ComboBox\obj\Debug\ComboBox.csproj.AssemblyReference.cache
+D:\Phat Trien Ung Dung Desktop\ComboBox\obj\Debug\ComboBox.csproj.SuggestedBindingRedirects.cache
+D:\Phat Trien Ung Dung Desktop\ComboBox\obj\Debug\ComboBox.Form1.resources
+D:\Phat Trien Ung Dung Desktop\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+D:\Phat Trien Ung Dung Desktop\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+D:\Phat Trien Ung Dung Desktop\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+D:\Phat Trien Ung Dung Desktop\ComboBox\obj\Debug\ComboBox.exe
+D:\Phat Trien Ung Dung Desktop\ComboBox\obj\Debug\ComboBox.pdb
