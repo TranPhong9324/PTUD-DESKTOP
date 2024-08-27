@@ -1,0 +1,10 @@
+D:\2212441\PTUDDesktop\2212441_Lab02\MyForm\MyForm\obj\Debug\Lab2_Demo.csproj.AssemblyReference.cache
+D:\2212441\PTUDDesktop\2212441_Lab02\MyForm\MyForm\obj\Debug\MyForm.frmTrungTam.resources
+D:\2212441\PTUDDesktop\2212441_Lab02\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+D:\2212441\PTUDDesktop\2212441_Lab02\MyForm\MyForm\obj\Debug\Lab2_Demo.csproj.GenerateResource.cache
+D:\2212441\PTUDDesktop\2212441_Lab02\MyForm\MyForm\obj\Debug\Lab2_Demo.csproj.CoreCompileInputs.cache
+D:\2212441\PTUDDesktop\2212441_Lab02\MyForm\MyForm\bin\Debug\MyForm.exe.config
+D:\2212441\PTUDDesktop\2212441_Lab02\MyForm\MyForm\bin\Debug\MyForm.exe
+D:\2212441\PTUDDesktop\2212441_Lab02\MyForm\MyForm\bin\Debug\MyForm.pdb
+D:\2212441\PTUDDesktop\2212441_Lab02\MyForm\MyForm\obj\Debug\MyForm.exe
+D:\2212441\PTUDDesktop\2212441_Lab02\MyForm\MyForm\obj\Debug\MyForm.pdb
