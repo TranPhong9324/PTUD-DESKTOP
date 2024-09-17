@@ -1,0 +1,10 @@
+D:\2212441\PTUDDesktop\Lab03\Lab03\bin\Debug\Lab03.exe.config
+D:\2212441\PTUDDesktop\Lab03\Lab03\bin\Debug\Lab03.exe
+D:\2212441\PTUDDesktop\Lab03\Lab03\bin\Debug\Lab03.pdb
+D:\2212441\PTUDDesktop\Lab03\Lab03\obj\Debug\Lab03.csproj.AssemblyReference.cache
+D:\2212441\PTUDDesktop\Lab03\Lab03\obj\Debug\Lab03.Form1.resources
+D:\2212441\PTUDDesktop\Lab03\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+D:\2212441\PTUDDesktop\Lab03\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+D:\2212441\PTUDDesktop\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+D:\2212441\PTUDDesktop\Lab03\Lab03\obj\Debug\Lab03.exe
+D:\2212441\PTUDDesktop\Lab03\Lab03\obj\Debug\Lab03.pdb
