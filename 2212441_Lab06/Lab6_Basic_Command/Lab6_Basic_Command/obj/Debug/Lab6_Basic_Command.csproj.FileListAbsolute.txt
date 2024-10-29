@@ -1,0 +1,11 @@
+D:\2212441\PTUDDesktop\2212441_Lab06\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\Lab6_Basic_Command.exe.config
+D:\2212441\PTUDDesktop\2212441_Lab06\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\Lab6_Basic_Command.exe
+D:\2212441\PTUDDesktop\2212441_Lab06\Lab6_Basic_Command\Lab6_Basic_Command\bin\Debug\Lab6_Basic_Command.pdb
+D:\2212441\PTUDDesktop\2212441_Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.csproj.AssemblyReference.cache
+D:\2212441\PTUDDesktop\2212441_Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.Form1.resources
+D:\2212441\PTUDDesktop\2212441_Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.Properties.Resources.resources
+D:\2212441\PTUDDesktop\2212441_Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.csproj.GenerateResource.cache
+D:\2212441\PTUDDesktop\2212441_Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.csproj.CoreCompileInputs.cache
+D:\2212441\PTUDDesktop\2212441_Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.exe
+D:\2212441\PTUDDesktop\2212441_Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.pdb
+D:\2212441\PTUDDesktop\2212441_Lab06\Lab6_Basic_Command\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.frmFood.resources
