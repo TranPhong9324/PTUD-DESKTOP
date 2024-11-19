@@ -1,0 +1,11 @@
+D:\2212441\PTUDDesktop\2212441_Lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.exe.config
+D:\2212441\PTUDDesktop\2212441_Lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.exe
+D:\2212441\PTUDDesktop\2212441_Lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.pdb
+D:\2212441\PTUDDesktop\2212441_Lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.AssemblyReference.cache
+D:\2212441\PTUDDesktop\2212441_Lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.Form1.resources
+D:\2212441\PTUDDesktop\2212441_Lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.Properties.Resources.resources
+D:\2212441\PTUDDesktop\2212441_Lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.GenerateResource.cache
+D:\2212441\PTUDDesktop\2212441_Lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.CoreCompileInputs.cache
+D:\2212441\PTUDDesktop\2212441_Lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.exe
+D:\2212441\PTUDDesktop\2212441_Lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.pdb
+D:\2212441\PTUDDesktop\2212441_Lab07\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.foodInfoForm.resources
